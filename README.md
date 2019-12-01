@@ -1,3 +1,7 @@
 
 This is hw2-1
-commit C
+<<<<<<< HEAD
+commit D
+=======
+commit D
+>>>>>>> devel
